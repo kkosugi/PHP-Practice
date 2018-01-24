@@ -1,0 +1,51 @@
+
+.contents{
+  margin:20px;
+}
+h2{
+  margin:0;
+  font-size: 40px;
+}
+
+
+input[type="text"]{
+  min-width:200px;
+  line-height:30px;
+  border:1px solid #DDD;
+}
+
+textarea{
+  min-height:80px;
+  min-width:100px;
+  border:1px solid #DDD;
+}
+
+.del-btn{
+  text-align:right;
+}
+button{
+  border-radius: 50px;
+  font-size: 20px;
+  cursor:pointer;
+  margin-left: 10px;
+}
+
+.del-btn:hover{
+  opacity:0.7;
+  border-radius: 50px;
+}
+
+.sentence{
+  padding:8px;
+  list-style: none;
+}
+.sentence:hover{
+}
+
+span{
+  display: block;
+  margin-bottom: 10px;
+}
+.page{
+  text-align: center;
+}
