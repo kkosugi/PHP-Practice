@@ -49,3 +49,11 @@ span{
 .page{
   text-align: center;
 }
+
+#ebtn{
+  margin-left: 30px;
+}
+
+.form-control #inputname{
+  background-color: #00b0f0;
+}
